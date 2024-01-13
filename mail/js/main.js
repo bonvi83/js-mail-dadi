@@ -14,7 +14,7 @@ let risposta = document.getElementById("risposta");
 for (let i = 0; i < lista.length; i++) {
     console.log(lista[i])
 
-    if (emailUtente == lista) {
+    if (emailUtente == lista[i]) {
         risposta.innerHTML = "Accesso CONSENTITO";
     }
     else {
