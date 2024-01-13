@@ -14,7 +14,7 @@ for (let i = 0; i < lista.length; i++) {
 
     if (emailUtente == lista[i]) {
         risposta.innerHTML = "Accesso CONSENTITO";
-        zbreak;
+        break;
     } 
     else {
         risposta.innerHTML = "Accesso NEGATO";
