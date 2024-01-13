@@ -19,6 +19,13 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
   - se è nbella lista stampo a video che può entrare
   - se NON è nella lista stampo a video che può entrare
 
+Per l'accesso CONSENTITO:
+- tiziano.gattaro@boolean.com
+- gigi.nazionale@boolean.com
+- mattia.pizzettato@boolean.com
+- classe117@boolean.com
+
+
 **Gioco dei dadi:**
 - creo un numero casuale da 1 a 6 per il giocatore
 - creo un numero casuale da 1 a 6 per il pc

@@ -3,7 +3,7 @@ let emailUtente = prompt("Scrivi il tuo indirizzo e-mail");
 
 
 // lista di email che libero accesso
-const lista = ["tiziano.gattaro@boolean.com", "prova", "gigi.nazionale@boolean.com", "mattia.pizzettato@boolean.com", "classe117@boolean.com"];
+const lista = ["tiziano.gattaro@boolean.com", "gigi.nazionale@boolean.com", "mattia.pizzettato@boolean.com", "classe117@boolean.com"];
 
 
 // stampo la risposta
