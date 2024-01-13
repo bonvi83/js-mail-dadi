@@ -11,9 +11,10 @@ const lista = ["tiziano.gattaro@boolean.com", "gigi.nazionale@boolean.com", "mat
 let risposta = document.getElementById("risposta");
 
 
-for (let i=0, i < lista.length; i++) {
-    console.log(lista[i
-    if (lista[i] == emailUtente) {
+for (let i = 0; i < lista.length; i++) {
+    console.log(lista[i])
+
+    if (emailUtente == lista) {
         risposta.innerHTML = "Accesso CONSENTITO";
     }
     else {
